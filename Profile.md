@@ -3,9 +3,12 @@ It lists projects I'm interested in, some of which are projects on github that I
 
 ## Electronics
 * Vintage computing
+  ** 6502 processor
+  ** RCA 1802 processor
+  
 * Music synthesizers
   * C64 SID chip
-  * SN76477
+  * SN76477 Complex Sound generator
   * ARM-based music synthesis platforms
     * Electrosmith DAISY  https://github.com/electro-smith/DaisyWiki
     * Raspberry Pi stuff (Pi Pico, etc)
